@@ -906,6 +906,11 @@ section {
   font-size: 14px;
   color: #728394;
 }
+
+.contact .info a {
+  color: inherit;
+}
+
 .contact .info .email, .contact .info .phone,.contact .info .facebook,.contact .info .github{
   margin-top: 40px;
 }
