@@ -911,6 +911,11 @@ section {
   color: inherit;
 }
 
+.contact .info img {
+  width: inherit;
+  height: inherit;
+}
+
 .contact .info .email, .contact .info .phone,.contact .info .facebook,.contact .info .github{
   margin-top: 40px;
 }
